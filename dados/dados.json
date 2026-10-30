@@ -705,17 +705,6 @@
       "img": null
     },
     {
-      "id": "mvvedjhaqm8l",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793357940000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": "",
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvvedjhaqm8l.jpg"
-    },
-    {
       "id": "mvvedz77ost8",
       "weekId": "mvtyuao2qlyn",
       "ts": 1793359200000,
@@ -740,6 +729,17 @@
       ],
       "note": "Sup se matando nas rotas early",
       "img": "imagens/mvvea49sbi2j.jpg"
+    },
+    {
+      "id": "mvvedjhaqm8l",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793357940000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 42,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvedjhaqm8l.jpg"
     }
   ]
 }

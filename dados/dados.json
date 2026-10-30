@@ -735,7 +735,9 @@
       "result": "L",
       "champ": "Warwick",
       "dpm": 7,
-      "tags": [],
+      "tags": [
+        "Autofill"
+      ],
       "note": "Sup se matando nas rotas early",
       "img": "imagens/mvvea49sbi2j.jpg"
     }

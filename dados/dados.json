@@ -1,0 +1,714 @@
+{
+  "semanas": [
+    {
+      "id": "sem1",
+      "name": "Semana 1",
+      "goal": 45,
+      "created": 1792022399000
+    },
+    {
+      "id": "mvtyi0p4buib",
+      "name": "Semana 1",
+      "goal": 45,
+      "created": 1793303329288
+    },
+    {
+      "id": "mvtyuao2qlyn",
+      "name": "Semana 2",
+      "goal": 33,
+      "created": 1793303902082
+    }
+  ],
+  "partidas": [
+    {
+      "id": "mvtz3fiwu255",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793131020000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 33,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtz3fiwu255.jpg"
+    },
+    {
+      "id": "mvtz5kru458y",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793133540000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": "imagens/mvtz5kru458y.jpg"
+    },
+    {
+      "id": "mvtz6z5f8xwt",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793135640000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 48,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtz6z5f8xwt.jpg"
+    },
+    {
+      "id": "mvtz7tsdjial",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793138640000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 56,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtz7tsdjial.jpg"
+    },
+    {
+      "id": "mvtz8v5ow3c2",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793141340000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 83,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtz8v5ow3c2.jpg"
+    },
+    {
+      "id": "mvtza6yiadcf",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793214240000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 62,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvtza6yiadcf.jpg"
+    },
+    {
+      "id": "mvtzbesr0afm",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793217420000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 40,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtzbesr0afm.jpg"
+    },
+    {
+      "id": "mvtzc710aauq",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793221740000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 66,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvtzc710aauq.jpg"
+    },
+    {
+      "id": "mvtzdmokhb5w",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793265180000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 39,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtzdmokhb5w.jpg"
+    },
+    {
+      "id": "mvtzeewz1s8j",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793267760000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 50,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtzeewz1s8j.jpg"
+    },
+    {
+      "id": "mvtzfy7qecnw",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793270280000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 89,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": "imagens/mvtzfy7qecnw.jpg"
+    },
+    {
+      "id": "mvtzgu597hzm",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793287320000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 71,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvtzgu597hzm.jpg"
+    },
+    {
+      "id": "mvtzhrnzt5wn",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793290140000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 89,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvtzhrnzt5wn.jpg"
+    },
+    {
+      "id": "sem1-01",
+      "weekId": "sem1",
+      "ts": 1792022400000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 82,
+      "tags": [],
+      "note": "Posicionamento ruim. Mortes em TF decisivas",
+      "img": null
+    },
+    {
+      "id": "sem1-02",
+      "weekId": "sem1",
+      "ts": 1792024800000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 99,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-03",
+      "weekId": "sem1",
+      "ts": 1792027200000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 48,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-04",
+      "weekId": "sem1",
+      "ts": 1792256400000,
+      "result": "W",
+      "champ": "Mordekaiser",
+      "dpm": 28,
+      "tags": [
+        "Autofill"
+      ],
+      "note": "Autofill Top",
+      "img": null
+    },
+    {
+      "id": "sem1-05",
+      "weekId": "sem1",
+      "ts": 1792258800000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 7,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-06",
+      "weekId": "sem1",
+      "ts": 1792261200000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 76,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-07",
+      "weekId": "sem1",
+      "ts": 1792263600000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-08",
+      "weekId": "sem1",
+      "ts": 1792266000000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 31,
+      "tags": [
+        "Derrota mitigada"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-09",
+      "weekId": "sem1",
+      "ts": 1792342800000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 93,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-10",
+      "weekId": "sem1",
+      "ts": 1792345200000,
+      "result": "L",
+      "champ": "Caitlyn",
+      "dpm": 29,
+      "tags": [],
+      "note": "Pickaram MF",
+      "img": null
+    },
+    {
+      "id": "sem1-11",
+      "weekId": "sem1",
+      "ts": 1792347600000,
+      "result": "L",
+      "champ": "Sivir",
+      "dpm": 52,
+      "tags": [
+        "ACE"
+      ],
+      "note": "Pickaram MF",
+      "img": null
+    },
+    {
+      "id": "sem1-12",
+      "weekId": "sem1",
+      "ts": 1792350000000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 36,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-13",
+      "weekId": "sem1",
+      "ts": 1792352400000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-14",
+      "weekId": "sem1",
+      "ts": 1792368000000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-15",
+      "weekId": "sem1",
+      "ts": 1792370400000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 80,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-16",
+      "weekId": "sem1",
+      "ts": 1792372800000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 46,
+      "tags": [
+        "ACE",
+        "Surrender",
+        "Derrota mitigada"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-17",
+      "weekId": "sem1",
+      "ts": 1792375200000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 25,
+      "tags": [
+        "Surrender"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-18",
+      "weekId": "sem1",
+      "ts": 1792407600000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 35,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-19",
+      "weekId": "sem1",
+      "ts": 1792410000000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 54,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-20",
+      "weekId": "sem1",
+      "ts": 1792429200000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-21",
+      "weekId": "sem1",
+      "ts": 1792431600000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 72,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-22",
+      "weekId": "sem1",
+      "ts": 1792434000000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 36,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-23",
+      "weekId": "sem1",
+      "ts": 1792454400000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 15,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-24",
+      "weekId": "sem1",
+      "ts": 1792456800000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 65,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-25",
+      "weekId": "sem1",
+      "ts": 1792494000000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 33,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-26",
+      "weekId": "sem1",
+      "ts": 1792496400000,
+      "result": "W",
+      "champ": "Annie",
+      "dpm": 32,
+      "tags": [
+        "Autofill"
+      ],
+      "note": "Autofill mid",
+      "img": null
+    },
+    {
+      "id": "sem1-27",
+      "weekId": "sem1",
+      "ts": 1792498800000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 50,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-28",
+      "weekId": "sem1",
+      "ts": 1792515600000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 35,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-29",
+      "weekId": "sem1",
+      "ts": 1792518000000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 65,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-30",
+      "weekId": "sem1",
+      "ts": 1792540800000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-31",
+      "weekId": "sem1",
+      "ts": 1792543200000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 43,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-32",
+      "weekId": "sem1",
+      "ts": 1792580400000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 94,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-33",
+      "weekId": "sem1",
+      "ts": 1792582800000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 85,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-34",
+      "weekId": "sem1",
+      "ts": 1792585200000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 79,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-35",
+      "weekId": "sem1",
+      "ts": 1792602000000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 74,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-36",
+      "weekId": "sem1",
+      "ts": 1792604400000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 50,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-37",
+      "weekId": "sem1",
+      "ts": 1792627200000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 33,
+      "tags": [
+        "Surrender"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-38",
+      "weekId": "sem1",
+      "ts": 1792629600000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 38,
+      "tags": [
+        "Surrender"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-39",
+      "weekId": "sem1",
+      "ts": 1792632000000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 96,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-40",
+      "weekId": "sem1",
+      "ts": 1792634400000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 64,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-41",
+      "weekId": "sem1",
+      "ts": 1792666800000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 68,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-42",
+      "weekId": "sem1",
+      "ts": 1792669200000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 81,
+      "tags": [
+        "ACE",
+        "Quit aliado",
+        "Derrota mitigada"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-43",
+      "weekId": "sem1",
+      "ts": 1792671600000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 97,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-44",
+      "weekId": "sem1",
+      "ts": 1792688400000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 76,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "sem1-45",
+      "weekId": "sem1",
+      "ts": 1792690800000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 37,
+      "tags": [],
+      "note": "",
+      "img": null
+    }
+  ]
+}

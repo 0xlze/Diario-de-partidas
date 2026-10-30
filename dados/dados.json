@@ -705,19 +705,6 @@
       "img": null
     },
     {
-      "id": "mvvedz77ost8",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793359200000,
-      "result": "L",
-      "champ": "Sivir",
-      "dpm": "",
-      "tags": [
-        "ACE"
-      ],
-      "note": "",
-      "img": "imagens/mvvedz77ost8.jpg"
-    },
-    {
       "id": "mvvea49sbi2j",
       "weekId": "mvtyuao2qlyn",
       "ts": 1793356080000,
@@ -740,6 +727,19 @@
       "tags": [],
       "note": "",
       "img": "imagens/mvvedjhaqm8l.jpg"
+    },
+    {
+      "id": "mvvedz77ost8",
+      "weekId": "mvtyuao2qlyn",
+      "ts": 1793359200000,
+      "result": "L",
+      "champ": "Sivir",
+      "dpm": 78,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvvedz77ost8.jpg"
     }
   ]
 }

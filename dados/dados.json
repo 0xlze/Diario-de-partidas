@@ -811,6 +811,19 @@
       ],
       "note": "",
       "img": null
+    },
+    {
+      "id": "mvwu6rtoqx9v",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793475180000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 70,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvwu6rtoqx9v.jpg"
     }
   ]
 }

@@ -1,4 +1,10 @@
 {
+  "atualizado": 1793405761538,
+  "repo": {
+    "owner": "0xlze",
+    "repo": "Diario-de-partidas",
+    "branch": "main"
+  },
   "semanas": [
     {
       "id": "sem1",
@@ -11,6 +17,12 @@
       "name": "Semana 2",
       "goal": 33,
       "created": 1793303902082
+    },
+    {
+      "id": "mvvmkyemqp3e",
+      "name": "Semana 2",
+      "goal": 33,
+      "created": 1793404243246
     }
   ],
   "partidas": [
@@ -740,6 +752,220 @@
       ],
       "note": "",
       "img": "imagens/mvvedz77ost8.jpg"
+    },
+    {
+      "id": "mvvmswdianjt",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793131020000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 33,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmswdianjt.jpg"
+    },
+    {
+      "id": "mvvmtgz8h9w2",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793133540000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "Baniram MF",
+      "img": "imagens/mvvmtgz8h9w2.jpg"
+    },
+    {
+      "id": "mvvmu7ha4v1e",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793135640000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 48,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmu7ha4v1e.jpg"
+    },
+    {
+      "id": "mvvmvc6g5mzg",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793138640000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 56,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmvc6g5mzg.jpg"
+    },
+    {
+      "id": "mvvmvqse6zy5",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793141340000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 83,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmvqse6zy5.jpg"
+    },
+    {
+      "id": "mvvmw9rvanqj",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793214240000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 62,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvvmw9rvanqj.jpg"
+    },
+    {
+      "id": "mvvmx6y6aqtd",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793217420000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 40,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmx6y6aqtd.jpg"
+    },
+    {
+      "id": "mvvmxflm3e8h",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793232000000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 66,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvvmxflm3e8h.jpg"
+    },
+    {
+      "id": "mvvmyme2xpbx",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793265180000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 39,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmyme2xpbx.jpg"
+    },
+    {
+      "id": "mvvmzeytj9wn",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793267760000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 50,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvmzeytj9wn.jpg"
+    },
+    {
+      "id": "mvvn0ntqx8wz",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793270280000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 89,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": "imagens/mvvn0ntqx8wz.jpg"
+    },
+    {
+      "id": "mvvn13orf9a1",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793287320000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 71,
+      "tags": [
+        "ACE"
+      ],
+      "note": "",
+      "img": "imagens/mvvn13orf9a1.jpg"
+    },
+    {
+      "id": "mvvn1kl6yaju",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793290140000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 89,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvn1kl6yaju.jpg"
+    },
+    {
+      "id": "mvvn328rbqr8",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793356080000,
+      "result": "L",
+      "champ": "Warwick",
+      "dpm": 7,
+      "tags": [
+        "Autofill"
+      ],
+      "note": "",
+      "img": "imagens/mvvn328rbqr8.jpg"
+    },
+    {
+      "id": "mvvn3f894wul",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793357940000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": 42,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvn3f894wul.jpg"
+    },
+    {
+      "id": "mvvn3w34jc0b",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793359860000,
+      "result": "L",
+      "champ": "Sivir",
+      "dpm": 78,
+      "tags": [
+        "ACE"
+      ],
+      "note": "Baniram MF",
+      "img": "imagens/mvvn3w34jc0b.jpg"
+    },
+    {
+      "id": "mvvn6t1ult0r",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793398440000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 74,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvvn6t1ult0r.jpg"
+    },
+    {
+      "id": "mvvn90haabbp",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793400900000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": "imagens/mvvn90haabbp.jpg"
     }
   ]
 }

@@ -797,6 +797,20 @@
       "tags": [],
       "note": "",
       "img": "imagens/mvwfk6805x7v.jpg"
+    },
+    {
+      "id": "mvwrq7m3yvn6",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793473320000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": "",
+      "tags": [
+        "Derrota mitigada",
+        "Quit aliado"
+      ],
+      "note": "",
+      "img": null
     }
   ]
 }

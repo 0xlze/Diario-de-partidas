@@ -1,5 +1,5 @@
 {
-  "atualizado": 1793405761538,
+  "atualizado": 1793405772107,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -13,12 +13,6 @@
       "created": 1792022399000
     },
     {
-      "id": "mvtyuao2qlyn",
-      "name": "Semana 2",
-      "goal": 33,
-      "created": 1793303902082
-    },
-    {
       "id": "mvvmkyemqp3e",
       "name": "Semana 2",
       "goal": 33,
@@ -26,159 +20,6 @@
     }
   ],
   "partidas": [
-    {
-      "id": "mvtz3fiwu255",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793131020000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 33,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtz3fiwu255.jpg"
-    },
-    {
-      "id": "mvtz5kru458y",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793133540000,
-      "result": "W",
-      "champ": "Sivir",
-      "dpm": 100,
-      "tags": [
-        "MVP"
-      ],
-      "note": "",
-      "img": "imagens/mvtz5kru458y.jpg"
-    },
-    {
-      "id": "mvtz6z5f8xwt",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793135640000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 48,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtz6z5f8xwt.jpg"
-    },
-    {
-      "id": "mvtz7tsdjial",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793138640000,
-      "result": "W",
-      "champ": "MF",
-      "dpm": 56,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtz7tsdjial.jpg"
-    },
-    {
-      "id": "mvtz8v5ow3c2",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793141340000,
-      "result": "W",
-      "champ": "MF",
-      "dpm": 83,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtz8v5ow3c2.jpg"
-    },
-    {
-      "id": "mvtza6yiadcf",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793214240000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 62,
-      "tags": [
-        "ACE"
-      ],
-      "note": "",
-      "img": "imagens/mvtza6yiadcf.jpg"
-    },
-    {
-      "id": "mvtzbesr0afm",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793217420000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 40,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtzbesr0afm.jpg"
-    },
-    {
-      "id": "mvtzc710aauq",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793221740000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 66,
-      "tags": [
-        "ACE"
-      ],
-      "note": "",
-      "img": "imagens/mvtzc710aauq.jpg"
-    },
-    {
-      "id": "mvtzdmokhb5w",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793265180000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 39,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtzdmokhb5w.jpg"
-    },
-    {
-      "id": "mvtzeewz1s8j",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793267760000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 50,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtzeewz1s8j.jpg"
-    },
-    {
-      "id": "mvtzfy7qecnw",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793270280000,
-      "result": "W",
-      "champ": "MF",
-      "dpm": 89,
-      "tags": [
-        "MVP"
-      ],
-      "note": "",
-      "img": "imagens/mvtzfy7qecnw.jpg"
-    },
-    {
-      "id": "mvtzgu597hzm",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793287320000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 71,
-      "tags": [
-        "ACE"
-      ],
-      "note": "",
-      "img": "imagens/mvtzgu597hzm.jpg"
-    },
-    {
-      "id": "mvtzhrnzt5wn",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793290140000,
-      "result": "W",
-      "champ": "Sivir",
-      "dpm": 89,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvtzhrnzt5wn.jpg"
-    },
     {
       "id": "sem1-01",
       "weekId": "sem1",
@@ -715,43 +556,6 @@
       "tags": [],
       "note": "",
       "img": null
-    },
-    {
-      "id": "mvvea49sbi2j",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793356080000,
-      "result": "L",
-      "champ": "Warwick",
-      "dpm": 7,
-      "tags": [
-        "Autofill"
-      ],
-      "note": "Sup se matando nas rotas early",
-      "img": "imagens/mvvea49sbi2j.jpg"
-    },
-    {
-      "id": "mvvedjhaqm8l",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793357940000,
-      "result": "L",
-      "champ": "MF",
-      "dpm": 42,
-      "tags": [],
-      "note": "",
-      "img": "imagens/mvvedjhaqm8l.jpg"
-    },
-    {
-      "id": "mvvedz77ost8",
-      "weekId": "mvtyuao2qlyn",
-      "ts": 1793359200000,
-      "result": "L",
-      "champ": "Sivir",
-      "dpm": 78,
-      "tags": [
-        "ACE"
-      ],
-      "note": "",
-      "img": "imagens/mvvedz77ost8.jpg"
     },
     {
       "id": "mvvmswdianjt",

@@ -1,4 +1,10 @@
 {
+  "atualizado": 1793554634334,
+  "repo": {
+    "owner": "0xlze",
+    "repo": "Diario-de-partidas",
+    "branch": "main"
+  },
   "semanas": [
     {
       "id": "sem1",
@@ -824,6 +830,19 @@
       ],
       "note": "",
       "img": "imagens/mvwu6rtoqx9v.jpg"
+    },
+    {
+      "id": "mvy44atrb393",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793550900000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 100,
+      "tags": [
+        "MVP"
+      ],
+      "note": "",
+      "img": "imagens/mvy44atrb393.jpg"
     }
   ]
 }

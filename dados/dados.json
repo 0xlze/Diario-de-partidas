@@ -1,5 +1,5 @@
 {
-  "atualizado": 1793554634334,
+  "atualizado": 1793554704388,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -843,6 +843,19 @@
       ],
       "note": "",
       "img": "imagens/mvy44atrb393.jpg"
+    },
+    {
+      "id": "mvy45swew56u",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793552820000,
+      "result": "W",
+      "champ": "Yunara",
+      "dpm": 80,
+      "tags": [
+        "MVP"
+      ],
+      "note": "Baniram MF",
+      "img": "imagens/mvy45swew56u.jpg"
     }
   ]
 }

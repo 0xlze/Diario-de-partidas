@@ -1,5 +1,5 @@
 {
-  "atualizado": 1793656018548,
+  "atualizado": 1793656113381,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -893,6 +893,17 @@
       ],
       "note": "",
       "img": "imagens/mvzshba1dzd4.jpg"
+    },
+    {
+      "id": "mvzsjcmqmygq",
+      "weekId": "mvvmkyemqp3e",
+      "ts": 1793655960000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 98,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mvzsjcmqmygq.jpg"
     }
   ]
 }

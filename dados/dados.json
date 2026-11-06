@@ -1,5 +1,5 @@
 {
-  "atualizado": 1793966892941,
+  "atualizado": 1793966913005,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -919,6 +919,19 @@
       "champ": "MF",
       "dpm": 36,
       "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mw4xkwjtkdl9",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1793961000000,
+      "result": "L",
+      "champ": "Quinn",
+      "dpm": 43,
+      "tags": [
+        "Autofill"
+      ],
       "note": "",
       "img": null
     }

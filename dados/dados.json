@@ -1,5 +1,5 @@
 {
-  "atualizado": 1793656806467,
+  "atualizado": 1793966790864,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -17,6 +17,12 @@
       "name": "Semana 2",
       "goal": 35,
       "created": 1793404243246
+    },
+    {
+      "id": "mw4xia8qu9po",
+      "name": "Semana 3",
+      "goal": 45,
+      "created": 1793966789978
     }
   ],
   "partidas": [

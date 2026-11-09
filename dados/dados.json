@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794231631170,
+  "atualizado": 1794231667692,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1026,6 +1026,17 @@
       "tags": [],
       "note": "",
       "img": "imagens/mw9b6owskzxd.jpg"
+    },
+    {
+      "id": "mw9b7h3ec5en",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794149100000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": "",
+      "tags": [],
+      "note": "",
+      "img": "imagens/mw9b7h3ec5en.jpg"
     }
   ]
 }

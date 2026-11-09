@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794231363680,
+  "atualizado": 1794231367848,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -912,30 +912,6 @@
       "img": "imagens/mvzsjcmqmygq.jpg"
     },
     {
-      "id": "mw9awc62ei2h",
-      "weekId": "mw4xia8qu9po",
-      "ts": 1778536500000,
-      "result": "W",
-      "champ": "MF",
-      "dpm": "",
-      "tags": [],
-      "note": "",
-      "img": "imagens/mw9awc62ei2h.jpg"
-    },
-    {
-      "id": "mw9audtkplnl",
-      "weekId": "mw4xia8qu9po",
-      "ts": 1778534160000,
-      "result": "L",
-      "champ": "Nami",
-      "dpm": "",
-      "tags": [
-        "Autofill"
-      ],
-      "note": "",
-      "img": "imagens/mw9audtkplnl.jpg"
-    },
-    {
       "id": "mw4xlj49k53d",
       "weekId": "mw4xia8qu9po",
       "ts": 1793964600000,
@@ -982,6 +958,30 @@
       "tags": [],
       "note": "",
       "img": "imagens/mw9axf2r80eu.jpg"
+    },
+    {
+      "id": "mw9awc62ei2h",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1793915700000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": "",
+      "tags": [],
+      "note": "",
+      "img": "imagens/mw9awc62ei2h.jpg"
+    },
+    {
+      "id": "mw9audtkplnl",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1793913360000,
+      "result": "L",
+      "champ": "Nami",
+      "dpm": "",
+      "tags": [
+        "Autofill"
+      ],
+      "note": "",
+      "img": "imagens/mw9audtkplnl.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794017182893,
+  "atualizado": 1794231057007,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -934,6 +934,19 @@
       ],
       "note": "",
       "img": null
+    },
+    {
+      "id": "mw9audtkplnl",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1775898960000,
+      "result": "L",
+      "champ": "Nami",
+      "dpm": "",
+      "tags": [
+        "Autofill"
+      ],
+      "note": "",
+      "img": "imagens/mw9audtkplnl.jpg"
     }
   ]
 }

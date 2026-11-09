@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794231244952,
+  "atualizado": 1794231310916,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -969,6 +969,19 @@
       "tags": [],
       "note": "",
       "img": "imagens/mw4xkh2imh5l.jpg"
+    },
+    {
+      "id": "mw9aztsyope1",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1781174160000,
+      "result": "L",
+      "champ": "Quinn",
+      "dpm": "",
+      "tags": [
+        "Autofill"
+      ],
+      "note": "",
+      "img": "imagens/mw9aztsyope1.jpg"
     }
   ]
 }

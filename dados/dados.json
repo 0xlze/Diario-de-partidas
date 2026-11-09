@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794231979272,
+  "atualizado": 1794231991563,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -936,17 +936,6 @@
       "img": "imagens/mw4xlj49k53d.jpg"
     },
     {
-      "id": "mw9b3hnn9xkq",
-      "weekId": "mw4xia8qu9po",
-      "ts": 1794015300000,
-      "result": "W",
-      "champ": "MF",
-      "dpm": "",
-      "tags": [],
-      "note": "",
-      "img": "imagens/mw9b3hnn9xkq.jpg"
-    },
-    {
       "id": "mw9b5yiuxybe",
       "weekId": "mw4xia8qu9po",
       "ts": 1794028140000,
@@ -1081,6 +1070,17 @@
       "tags": [],
       "note": "",
       "img": "imagens/mw9b2fd2ys5q.jpg"
+    },
+    {
+      "id": "mw9b3hnn9xkq",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794015300000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": 61,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mw9b3hnn9xkq.jpg"
     }
   ]
 }

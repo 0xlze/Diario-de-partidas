@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794231403979,
+  "atualizado": 1794231432129,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -982,6 +982,17 @@
       ],
       "note": "",
       "img": "imagens/mw4xlj49k53d.jpg"
+    },
+    {
+      "id": "mw9b2fd2ys5q",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794011520000,
+      "result": "W",
+      "champ": "MF",
+      "dpm": "",
+      "tags": [],
+      "note": "",
+      "img": "imagens/mw9b2fd2ys5q.jpg"
     }
   ]
 }

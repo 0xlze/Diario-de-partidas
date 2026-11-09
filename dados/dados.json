@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794232058013,
+  "atualizado": 1794232097403,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1078,7 +1078,9 @@
       "result": "W",
       "champ": "Sivir",
       "dpm": 100,
-      "tags": [],
+      "tags": [
+        "MVP"
+      ],
       "note": "",
       "img": "imagens/mw9b7h3ec5en.jpg"
     }

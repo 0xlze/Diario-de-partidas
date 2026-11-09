@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794232097403,
+  "atualizado": 1794232107421,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -936,17 +936,6 @@
       "img": "imagens/mw4xlj49k53d.jpg"
     },
     {
-      "id": "mw9b94ibi632",
-      "weekId": "mw4xia8qu9po",
-      "ts": 1794157680000,
-      "result": "W",
-      "champ": "Sivir",
-      "dpm": "",
-      "tags": [],
-      "note": "",
-      "img": "imagens/mw9b94ibi632.jpg"
-    },
-    {
       "id": "mw9ba503j4r9",
       "weekId": "mw4xia8qu9po",
       "ts": 1794160440000,
@@ -1083,6 +1072,17 @@
       ],
       "note": "",
       "img": "imagens/mw9b7h3ec5en.jpg"
+    },
+    {
+      "id": "mw9b94ibi632",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794157680000,
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 43,
+      "tags": [],
+      "note": "",
+      "img": "imagens/mw9b94ibi632.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794286195784,
+  "atualizado": 1794286283063,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1116,6 +1116,17 @@
       "tags": [
         "MVP"
       ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwa7q428m63e",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794358980000,
+      "result": "L",
+      "champ": "MF",
+      "dpm": "",
+      "tags": [],
       "note": "",
       "img": null
     }

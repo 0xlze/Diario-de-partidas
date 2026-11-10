@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794287784932,
+  "atualizado": 1794287788074,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1146,7 +1146,7 @@
     {
       "id": "mw9b2fd2ys5q",
       "weekId": "mw4xia8qu9po",
-      "ts": 1794011520000,
+      "ts": 1794006120000,
       "result": "L",
       "champ": "MF",
       "dpm": 38,
@@ -1159,7 +1159,7 @@
     {
       "id": "mw9b3hnn9xkq",
       "weekId": "mw4xia8qu9po",
-      "ts": 1794015300000,
+      "ts": 1794006060000,
       "result": "W",
       "champ": "MF",
       "dpm": 61,
@@ -1334,7 +1334,7 @@
     {
       "id": "mw9b5yiuxybe",
       "weekId": "mw4xia8qu9po",
-      "ts": 1794006120000,
+      "ts": 1794006000000,
       "data": "2026-11-06",
       "turno": "noite",
       "result": "L",

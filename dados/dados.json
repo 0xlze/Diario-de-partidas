@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794287300202,
+  "atualizado": 1794287757911,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -35,7 +35,9 @@
       "dpm": 82,
       "tags": [],
       "note": "Posicionamento ruim. Mortes em TF decisivas",
-      "img": null
+      "img": null,
+      "data": "2026-10-14",
+      "turno": "noite"
     },
     {
       "id": "sem1-02",
@@ -48,7 +50,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-14",
+      "turno": "noite"
     },
     {
       "id": "sem1-03",
@@ -59,7 +63,9 @@
       "dpm": 48,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-14",
+      "turno": "noite"
     },
     {
       "id": "sem1-04",
@@ -72,7 +78,9 @@
         "Autofill"
       ],
       "note": "Autofill Top",
-      "img": null
+      "img": null,
+      "data": "2026-10-17",
+      "turno": "tarde"
     },
     {
       "id": "sem1-05",
@@ -83,7 +91,9 @@
       "dpm": 7,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-17",
+      "turno": "tarde"
     },
     {
       "id": "sem1-06",
@@ -94,7 +104,9 @@
       "dpm": 76,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-17",
+      "turno": "tarde"
     },
     {
       "id": "sem1-07",
@@ -107,7 +119,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-17",
+      "turno": "tarde"
     },
     {
       "id": "sem1-08",
@@ -120,7 +134,9 @@
         "Derrota mitigada"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-17",
+      "turno": "tarde"
     },
     {
       "id": "sem1-09",
@@ -131,7 +147,9 @@
       "dpm": 93,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "tarde"
     },
     {
       "id": "sem1-10",
@@ -142,7 +160,9 @@
       "dpm": 29,
       "tags": [],
       "note": "Pickaram MF",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "tarde"
     },
     {
       "id": "sem1-11",
@@ -155,7 +175,9 @@
         "ACE"
       ],
       "note": "Pickaram MF",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "tarde"
     },
     {
       "id": "sem1-12",
@@ -166,7 +188,9 @@
       "dpm": 36,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "tarde"
     },
     {
       "id": "sem1-13",
@@ -179,7 +203,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "tarde"
     },
     {
       "id": "sem1-14",
@@ -192,7 +218,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "noite"
     },
     {
       "id": "sem1-15",
@@ -205,7 +233,9 @@
         "ACE"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "noite"
     },
     {
       "id": "sem1-16",
@@ -220,7 +250,9 @@
         "Derrota mitigada"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "noite"
     },
     {
       "id": "sem1-17",
@@ -233,7 +265,9 @@
         "Surrender"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-18",
+      "turno": "noite"
     },
     {
       "id": "sem1-18",
@@ -244,7 +278,9 @@
       "dpm": 35,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "manhã"
     },
     {
       "id": "sem1-19",
@@ -255,7 +291,9 @@
       "dpm": 54,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "manhã"
     },
     {
       "id": "sem1-20",
@@ -268,7 +306,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "tarde"
     },
     {
       "id": "sem1-21",
@@ -279,7 +319,9 @@
       "dpm": 72,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "tarde"
     },
     {
       "id": "sem1-22",
@@ -290,7 +332,9 @@
       "dpm": 36,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "tarde"
     },
     {
       "id": "sem1-23",
@@ -301,7 +345,9 @@
       "dpm": 15,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "noite"
     },
     {
       "id": "sem1-24",
@@ -312,7 +358,9 @@
       "dpm": 65,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-19",
+      "turno": "noite"
     },
     {
       "id": "sem1-25",
@@ -323,7 +371,9 @@
       "dpm": 33,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "manhã"
     },
     {
       "id": "sem1-26",
@@ -336,7 +386,9 @@
         "Autofill"
       ],
       "note": "Autofill mid",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "manhã"
     },
     {
       "id": "sem1-27",
@@ -347,7 +399,9 @@
       "dpm": 50,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "manhã"
     },
     {
       "id": "sem1-28",
@@ -358,7 +412,9 @@
       "dpm": 35,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "tarde"
     },
     {
       "id": "sem1-29",
@@ -369,7 +425,9 @@
       "dpm": 65,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "tarde"
     },
     {
       "id": "sem1-30",
@@ -380,7 +438,9 @@
       "dpm": 100,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "noite"
     },
     {
       "id": "sem1-31",
@@ -391,7 +451,9 @@
       "dpm": 43,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-20",
+      "turno": "noite"
     },
     {
       "id": "sem1-32",
@@ -404,7 +466,9 @@
         "ACE"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "manhã"
     },
     {
       "id": "sem1-33",
@@ -415,7 +479,9 @@
       "dpm": 85,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "manhã"
     },
     {
       "id": "sem1-34",
@@ -426,7 +492,9 @@
       "dpm": 79,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "manhã"
     },
     {
       "id": "sem1-35",
@@ -437,7 +505,9 @@
       "dpm": 74,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "tarde"
     },
     {
       "id": "sem1-36",
@@ -448,7 +518,9 @@
       "dpm": 50,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "tarde"
     },
     {
       "id": "sem1-37",
@@ -461,7 +533,9 @@
         "Surrender"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "noite"
     },
     {
       "id": "sem1-38",
@@ -474,7 +548,9 @@
         "Surrender"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "noite"
     },
     {
       "id": "sem1-39",
@@ -487,7 +563,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "noite"
     },
     {
       "id": "sem1-40",
@@ -500,7 +578,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-21",
+      "turno": "noite"
     },
     {
       "id": "sem1-41",
@@ -511,7 +591,9 @@
       "dpm": 68,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-22",
+      "turno": "manhã"
     },
     {
       "id": "sem1-42",
@@ -526,7 +608,9 @@
         "Derrota mitigada"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-22",
+      "turno": "manhã"
     },
     {
       "id": "sem1-43",
@@ -539,7 +623,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-22",
+      "turno": "manhã"
     },
     {
       "id": "sem1-44",
@@ -550,7 +636,9 @@
       "dpm": 76,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-22",
+      "turno": "tarde"
     },
     {
       "id": "sem1-45",
@@ -561,7 +649,9 @@
       "dpm": 37,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-22",
+      "turno": "tarde"
     },
     {
       "id": "mvvmswdianjt",
@@ -572,7 +662,9 @@
       "dpm": 33,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmswdianjt.jpg"
+      "img": "imagens/mvvmswdianjt.jpg",
+      "data": "2026-10-27",
+      "turno": "tarde"
     },
     {
       "id": "mvvmtgz8h9w2",
@@ -585,7 +677,9 @@
         "MVP"
       ],
       "note": "Baniram MF",
-      "img": "imagens/mvvmtgz8h9w2.jpg"
+      "img": "imagens/mvvmtgz8h9w2.jpg",
+      "data": "2026-10-27",
+      "turno": "tarde"
     },
     {
       "id": "mvvmu7ha4v1e",
@@ -596,7 +690,9 @@
       "dpm": 48,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmu7ha4v1e.jpg"
+      "img": "imagens/mvvmu7ha4v1e.jpg",
+      "data": "2026-10-27",
+      "turno": "noite"
     },
     {
       "id": "mvvmvc6g5mzg",
@@ -607,7 +703,9 @@
       "dpm": 56,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmvc6g5mzg.jpg"
+      "img": "imagens/mvvmvc6g5mzg.jpg",
+      "data": "2026-10-27",
+      "turno": "noite"
     },
     {
       "id": "mvvmvqse6zy5",
@@ -618,7 +716,9 @@
       "dpm": 83,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmvqse6zy5.jpg"
+      "img": "imagens/mvvmvqse6zy5.jpg",
+      "data": "2026-10-27",
+      "turno": "noite"
     },
     {
       "id": "mvvmw9rvanqj",
@@ -631,7 +731,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mvvmw9rvanqj.jpg"
+      "img": "imagens/mvvmw9rvanqj.jpg",
+      "data": "2026-10-28",
+      "turno": "tarde"
     },
     {
       "id": "mvvmx6y6aqtd",
@@ -642,7 +744,9 @@
       "dpm": 40,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmx6y6aqtd.jpg"
+      "img": "imagens/mvvmx6y6aqtd.jpg",
+      "data": "2026-10-28",
+      "turno": "tarde"
     },
     {
       "id": "mvvmxflm3e8h",
@@ -655,7 +759,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mvvmxflm3e8h.jpg"
+      "img": "imagens/mvvmxflm3e8h.jpg",
+      "data": "2026-10-28",
+      "turno": "noite"
     },
     {
       "id": "mvvmyme2xpbx",
@@ -666,7 +772,9 @@
       "dpm": 39,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmyme2xpbx.jpg"
+      "img": "imagens/mvvmyme2xpbx.jpg",
+      "data": "2026-10-29",
+      "turno": "manhã"
     },
     {
       "id": "mvvmzeytj9wn",
@@ -677,7 +785,9 @@
       "dpm": 50,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvmzeytj9wn.jpg"
+      "img": "imagens/mvvmzeytj9wn.jpg",
+      "data": "2026-10-29",
+      "turno": "manhã"
     },
     {
       "id": "mvvn0ntqx8wz",
@@ -690,7 +800,9 @@
         "MVP"
       ],
       "note": "",
-      "img": "imagens/mvvn0ntqx8wz.jpg"
+      "img": "imagens/mvvn0ntqx8wz.jpg",
+      "data": "2026-10-29",
+      "turno": "manhã"
     },
     {
       "id": "mvvn13orf9a1",
@@ -703,7 +815,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mvvn13orf9a1.jpg"
+      "img": "imagens/mvvn13orf9a1.jpg",
+      "data": "2026-10-29",
+      "turno": "tarde"
     },
     {
       "id": "mvvn1kl6yaju",
@@ -714,7 +828,9 @@
       "dpm": 89,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvn1kl6yaju.jpg"
+      "img": "imagens/mvvn1kl6yaju.jpg",
+      "data": "2026-10-29",
+      "turno": "tarde"
     },
     {
       "id": "mvvn328rbqr8",
@@ -727,7 +843,9 @@
         "Autofill"
       ],
       "note": "",
-      "img": "imagens/mvvn328rbqr8.jpg"
+      "img": "imagens/mvvn328rbqr8.jpg",
+      "data": "2026-10-30",
+      "turno": "manhã"
     },
     {
       "id": "mvvn3f894wul",
@@ -738,7 +856,9 @@
       "dpm": 42,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvn3f894wul.jpg"
+      "img": "imagens/mvvn3f894wul.jpg",
+      "data": "2026-10-30",
+      "turno": "manhã"
     },
     {
       "id": "mvvn3w34jc0b",
@@ -751,7 +871,9 @@
         "ACE"
       ],
       "note": "Baniram MF",
-      "img": "imagens/mvvn3w34jc0b.jpg"
+      "img": "imagens/mvvn3w34jc0b.jpg",
+      "data": "2026-10-30",
+      "turno": "manhã"
     },
     {
       "id": "mvvn6t1ult0r",
@@ -762,7 +884,9 @@
       "dpm": 74,
       "tags": [],
       "note": "",
-      "img": "imagens/mvvn6t1ult0r.jpg"
+      "img": "imagens/mvvn6t1ult0r.jpg",
+      "data": "2026-10-30",
+      "turno": "noite"
     },
     {
       "id": "mvvn90haabbp",
@@ -775,7 +899,9 @@
         "MVP"
       ],
       "note": "",
-      "img": "imagens/mvvn90haabbp.jpg"
+      "img": "imagens/mvvn90haabbp.jpg",
+      "data": "2026-10-30",
+      "turno": "noite"
     },
     {
       "id": "mvwfj9aqgupz",
@@ -786,7 +912,9 @@
       "dpm": 100,
       "tags": [],
       "note": "",
-      "img": "imagens/mvwfj9aqgupz.jpg"
+      "img": "imagens/mvwfj9aqgupz.jpg",
+      "data": "2026-10-31",
+      "turno": "manhã"
     },
     {
       "id": "mvwfjv4bvxdf",
@@ -797,7 +925,9 @@
       "dpm": 51,
       "tags": [],
       "note": "",
-      "img": "imagens/mvwfjv4bvxdf.jpg"
+      "img": "imagens/mvwfjv4bvxdf.jpg",
+      "data": "2026-10-31",
+      "turno": "manhã"
     },
     {
       "id": "mvwfk6805x7v",
@@ -808,7 +938,9 @@
       "dpm": 55,
       "tags": [],
       "note": "",
-      "img": "imagens/mvwfk6805x7v.jpg"
+      "img": "imagens/mvwfk6805x7v.jpg",
+      "data": "2026-10-31",
+      "turno": "manhã"
     },
     {
       "id": "mvwrq7m3yvn6",
@@ -822,7 +954,9 @@
         "Quit aliado"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-10-31",
+      "turno": "tarde"
     },
     {
       "id": "mvwu6rtoqx9v",
@@ -835,7 +969,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mvwu6rtoqx9v.jpg"
+      "img": "imagens/mvwu6rtoqx9v.jpg",
+      "data": "2026-10-31",
+      "turno": "tarde"
     },
     {
       "id": "mvy44atrb393",
@@ -848,7 +984,9 @@
         "MVP"
       ],
       "note": "",
-      "img": "imagens/mvy44atrb393.jpg"
+      "img": "imagens/mvy44atrb393.jpg",
+      "data": "2026-11-01",
+      "turno": "tarde"
     },
     {
       "id": "mvy45swew56u",
@@ -861,7 +999,9 @@
         "MVP"
       ],
       "note": "Baniram MF",
-      "img": "imagens/mvy45swew56u.jpg"
+      "img": "imagens/mvy45swew56u.jpg",
+      "data": "2026-11-01",
+      "turno": "tarde"
     },
     {
       "id": "mvyd4ig65mu1",
@@ -872,7 +1012,9 @@
       "dpm": 83,
       "tags": [],
       "note": "",
-      "img": "imagens/mvyd4ig65mu1.jpg"
+      "img": "imagens/mvyd4ig65mu1.jpg",
+      "data": "2026-11-01",
+      "turno": "tarde"
     },
     {
       "id": "mvzmnvmzzk50",
@@ -885,7 +1027,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mvzmnvmzzk50.jpg"
+      "img": "imagens/mvzmnvmzzk50.jpg",
+      "data": "2026-11-02",
+      "turno": "tarde"
     },
     {
       "id": "mvzshba1dzd4",
@@ -898,7 +1042,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mvzshba1dzd4.jpg"
+      "img": "imagens/mvzshba1dzd4.jpg",
+      "data": "2026-11-02",
+      "turno": "tarde"
     },
     {
       "id": "mvzsjcmqmygq",
@@ -909,7 +1055,9 @@
       "dpm": 98,
       "tags": [],
       "note": "",
-      "img": "imagens/mvzsjcmqmygq.jpg"
+      "img": "imagens/mvzsjcmqmygq.jpg",
+      "data": "2026-11-02",
+      "turno": "noite"
     },
     {
       "id": "mw4xkh2imh5l",
@@ -920,7 +1068,9 @@
       "dpm": 36,
       "tags": [],
       "note": "",
-      "img": "imagens/mw4xkh2imh5l.jpg"
+      "img": "imagens/mw4xkh2imh5l.jpg",
+      "data": "2026-11-06",
+      "turno": "manhã"
     },
     {
       "id": "mw4xlj49k53d",
@@ -933,7 +1083,9 @@
         "ACE"
       ],
       "note": "",
-      "img": "imagens/mw4xlj49k53d.jpg"
+      "img": "imagens/mw4xlj49k53d.jpg",
+      "data": "2026-11-06",
+      "turno": "manhã"
     },
     {
       "id": "mw9audtkplnl",
@@ -946,7 +1098,9 @@
         "Autofill"
       ],
       "note": "",
-      "img": "imagens/mw9audtkplnl.jpg"
+      "img": "imagens/mw9audtkplnl.jpg",
+      "data": "2026-11-05",
+      "turno": "noite"
     },
     {
       "id": "mw9awc62ei2h",
@@ -957,7 +1111,9 @@
       "dpm": 68,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9awc62ei2h.jpg"
+      "img": "imagens/mw9awc62ei2h.jpg",
+      "data": "2026-11-05",
+      "turno": "noite"
     },
     {
       "id": "mw9axf2r80eu",
@@ -968,7 +1124,9 @@
       "dpm": 82,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9axf2r80eu.jpg"
+      "img": "imagens/mw9axf2r80eu.jpg",
+      "data": "2026-11-05",
+      "turno": "noite"
     },
     {
       "id": "mw9aztsyope1",
@@ -981,7 +1139,9 @@
         "Autofill"
       ],
       "note": "",
-      "img": "imagens/mw9aztsyope1.jpg"
+      "img": "imagens/mw9aztsyope1.jpg",
+      "data": "2026-11-06",
+      "turno": "manhã"
     },
     {
       "id": "mw9b2fd2ys5q",
@@ -992,7 +1152,9 @@
       "dpm": 38,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9b2fd2ys5q.jpg"
+      "img": "imagens/mw9b2fd2ys5q.jpg",
+      "data": "2026-11-06",
+      "turno": "noite"
     },
     {
       "id": "mw9b3hnn9xkq",
@@ -1003,7 +1165,9 @@
       "dpm": 61,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9b3hnn9xkq.jpg"
+      "img": "imagens/mw9b3hnn9xkq.jpg",
+      "data": "2026-11-06",
+      "turno": "noite"
     },
     {
       "id": "mw9b6owskzxd",
@@ -1014,7 +1178,9 @@
       "dpm": 79,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9b6owskzxd.jpg"
+      "img": "imagens/mw9b6owskzxd.jpg",
+      "data": "2026-11-07",
+      "turno": "manhã"
     },
     {
       "id": "mw9b7h3ec5en",
@@ -1027,7 +1193,9 @@
         "MVP"
       ],
       "note": "",
-      "img": "imagens/mw9b7h3ec5en.jpg"
+      "img": "imagens/mw9b7h3ec5en.jpg",
+      "data": "2026-11-08",
+      "turno": "manhã"
     },
     {
       "id": "mw9b94ibi632",
@@ -1038,7 +1206,9 @@
       "dpm": 43,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9b94ibi632.jpg"
+      "img": "imagens/mw9b94ibi632.jpg",
+      "data": "2026-11-08",
+      "turno": "tarde"
     },
     {
       "id": "mw9ba503j4r9",
@@ -1049,7 +1219,9 @@
       "dpm": 66,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9ba503j4r9.jpg"
+      "img": "imagens/mw9ba503j4r9.jpg",
+      "data": "2026-11-08",
+      "turno": "tarde"
     },
     {
       "id": "mw9bax6syoad",
@@ -1060,7 +1232,9 @@
       "dpm": 96,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9bax6syoad.jpg"
+      "img": "imagens/mw9bax6syoad.jpg",
+      "data": "2026-11-08",
+      "turno": "tarde"
     },
     {
       "id": "mw9bbw9oxru4",
@@ -1071,7 +1245,9 @@
       "dpm": 33,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9bbw9oxru4.jpg"
+      "img": "imagens/mw9bbw9oxru4.jpg",
+      "data": "2026-11-08",
+      "turno": "tarde"
     },
     {
       "id": "mw9b5yiuxybe",
@@ -1082,7 +1258,9 @@
       "dpm": 58,
       "tags": [],
       "note": "",
-      "img": "imagens/mw9b5yiuxybe.jpg"
+      "img": "imagens/mw9b5yiuxybe.jpg",
+      "data": "2026-11-07",
+      "turno": "manhã"
     },
     {
       "id": "mwa7m35uji9d",
@@ -1093,7 +1271,9 @@
       "dpm": 31,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-11-09",
+      "turno": "noite"
     },
     {
       "id": "mwa7o8pxb8c6",
@@ -1106,7 +1286,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-11-09",
+      "turno": "noite"
     },
     {
       "id": "mwa86uvhcqfy",
@@ -1119,7 +1301,9 @@
         "MVP"
       ],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-11-09",
+      "turno": "noite"
     },
     {
       "id": "mwa87cyox4qp",
@@ -1130,7 +1314,9 @@
       "dpm": 75,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-11-09",
+      "turno": "noite"
     },
     {
       "id": "mwa7mzayvcma",
@@ -1141,7 +1327,9 @@
       "dpm": 19,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-11-09",
+      "turno": "noite"
     },
     {
       "id": "mwa7q428m63e",
@@ -1152,7 +1340,9 @@
       "dpm": 32,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "data": "2026-11-09",
+      "turno": "noite"
     }
   ]
 }

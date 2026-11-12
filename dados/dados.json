@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794486384578,
+  "atualizado": 1794486423619,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1789,6 +1789,21 @@
         "Autofill"
       ],
       "note": "",
+      "img": null
+    },
+    {
+      "id": "mwdivtia88f9",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794438300000,
+      "data": "2026-11-11",
+      "turno": "noite",
+      "result": "L",
+      "champ": "Veigar",
+      "dpm": 22,
+      "tags": [
+        "Autofill"
+      ],
+      "note": "Secundaria, 2 dodges ja feitos",
       "img": null
     }
   ]

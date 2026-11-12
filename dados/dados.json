@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794486283237,
+  "atualizado": 1794486294117,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1721,6 +1721,19 @@
       "tags": [
         "ACE"
       ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwdit1l0197h",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794438000000,
+      "data": "2026-11-11",
+      "turno": "noite",
+      "result": "L",
+      "champ": "Leona",
+      "dpm": 45,
+      "tags": [],
       "note": "",
       "img": null
     }

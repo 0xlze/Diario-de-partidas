@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794486294117,
+  "atualizado": 1794486315974,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1733,6 +1733,19 @@
       "result": "L",
       "champ": "Leona",
       "dpm": 45,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwditig5mf03",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794438060000,
+      "data": "2026-11-11",
+      "turno": "noite",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 57,
       "tags": [],
       "note": "",
       "img": null

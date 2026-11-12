@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794486423619,
+  "atualizado": 1794486443593,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1804,6 +1804,19 @@
         "Autofill"
       ],
       "note": "Secundaria, 2 dodges ja feitos",
+      "img": null
+    },
+    {
+      "id": "mwdiw8x36r3o",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794438360000,
+      "data": "2026-11-11",
+      "turno": "noite",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 95,
+      "tags": [],
+      "note": "",
       "img": null
     }
   ]

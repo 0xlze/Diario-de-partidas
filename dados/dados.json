@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794526021297,
+  "atualizado": 1794526161116,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -23,6 +23,18 @@
       "name": "Semana 3",
       "goal": 35,
       "created": 1793966789978
+    },
+    {
+      "id": "mwe6jj5nve11",
+      "name": "Semana 4",
+      "tipo": "elo",
+      "goal": 45,
+      "dias": 5,
+      "minPartidas": 1,
+      "eloIni": 16,
+      "eloAtual": 16,
+      "eloAlvo": 18,
+      "created": 1794526160315
     }
   ],
   "partidas": [

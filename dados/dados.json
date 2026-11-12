@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794486367134,
+  "atualizado": 1794486384578,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1773,6 +1773,21 @@
       "champ": "MF",
       "dpm": 23,
       "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwdiuzdue1gd",
+      "weekId": "mw4xia8qu9po",
+      "ts": 1794438240000,
+      "data": "2026-11-11",
+      "turno": "noite",
+      "result": "L",
+      "champ": "Quinn",
+      "dpm": 61,
+      "tags": [
+        "Autofill"
+      ],
       "note": "",
       "img": null
     }

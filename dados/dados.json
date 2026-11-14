@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794694304480,
+  "atualizado": 1794696414374,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1821,6 +1821,21 @@
       "champ": "Yunara",
       "dpm": 93,
       "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwgzwnel6tmj",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1794697260000,
+      "data": "2026-11-14",
+      "turno": "noite",
+      "result": "W",
+      "champ": "Yunara",
+      "dpm": 39,
+      "tags": [
+        "ACE"
+      ],
       "note": "",
       "img": null
     }

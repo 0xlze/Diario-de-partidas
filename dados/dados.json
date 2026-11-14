@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794678674787,
+  "atualizado": 1794680097692,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1661,7 +1661,11 @@
       "dpm": 24,
       "tags": [],
       "note": "",
-      "img": null
+      "img": null,
+      "pausa": {
+        "min": 30,
+        "nota": ""
+      }
     },
     {
       "id": "mwgkc27outhi",

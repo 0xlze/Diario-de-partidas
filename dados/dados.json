@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794675016779,
+  "atualizado": 1794675023792,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -32,7 +32,7 @@
       "dias": 5,
       "minPartidas": 1,
       "eloIni": 16,
-      "eloAtual": 16,
+      "eloAtual": 17,
       "eloAlvo": 18,
       "created": 1794526160315
     }

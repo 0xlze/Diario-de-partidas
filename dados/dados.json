@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794680097692,
+  "atualizado": 1794680328796,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1767,6 +1767,19 @@
         "min": 30,
         "nota": ""
       }
+    },
+    {
+      "id": "mwgqbvp7l41i",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1794675840000,
+      "data": "2026-11-14",
+      "turno": "tarde",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 78,
+      "tags": [],
+      "note": "",
+      "img": null
     }
   ]
 }

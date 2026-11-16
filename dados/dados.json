@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794833839362,
+  "atualizado": 1794833846013,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -1984,19 +1984,6 @@
       "img": null
     },
     {
-      "id": "mwj9px6r62x8",
-      "weekId": "mwe6jj5nve11",
-      "ts": 1794826860000,
-      "data": "2026-11-16",
-      "turno": "manhã",
-      "result": "L",
-      "champ": "Sivir",
-      "dpm": "",
-      "tags": [],
-      "note": "",
-      "img": null
-    },
-    {
       "id": "mwj9ptnvtbyj",
       "weekId": "mwe6jj5nve11",
       "ts": 1794826800000,
@@ -2008,6 +1995,19 @@
       "tags": [
         "ACE"
       ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwj9px6r62x8",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1794826860000,
+      "data": "2026-11-16",
+      "turno": "manhã",
+      "result": "L",
+      "champ": "Sivir",
+      "dpm": 37,
+      "tags": [],
       "note": "",
       "img": null
     }

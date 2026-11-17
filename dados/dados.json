@@ -1,5 +1,5 @@
 {
-  "atualizado": 1794955588565,
+  "atualizado": 1794957863888,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -2168,6 +2168,19 @@
       "turno": "noite",
       "result": "W",
       "champ": "Yunara",
+      "dpm": "",
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwlbkf5ag7l6",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1794956460000,
+      "data": "2026-11-17",
+      "turno": "noite",
+      "result": "W",
+      "champ": "Sivir",
       "dpm": "",
       "tags": [],
       "note": "",

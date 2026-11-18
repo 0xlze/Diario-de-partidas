@@ -1,5 +1,5 @@
 {
-  "atualizado": 1795012203792,
+  "atualizado": 1795012209761,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -2038,19 +2038,6 @@
       "img": null
     },
     {
-      "id": "mwlbkf5ag7l6",
-      "weekId": "mwe6jj5nve11",
-      "ts": 1794956460000,
-      "data": "2026-11-17",
-      "turno": "noite",
-      "result": "W",
-      "champ": "Sivir",
-      "dpm": "",
-      "tags": [],
-      "note": "",
-      "img": null
-    },
-    {
       "id": "mwld07kpr103",
       "weekId": "mwe6jj5nve11",
       "ts": 1794956520000,
@@ -2225,6 +2212,19 @@
       "result": "W",
       "champ": "Yunara",
       "dpm": 58,
+      "tags": [],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwlbkf5ag7l6",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1794956460000,
+      "data": "2026-11-17",
+      "turno": "noite",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": 77,
       "tags": [],
       "note": "",
       "img": null

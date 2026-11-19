@@ -1,5 +1,5 @@
 {
-  "atualizado": 1795016726688,
+  "atualizado": 1795050638701,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -2282,6 +2282,49 @@
       "tags": [
         "MVP"
       ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwmrq2eybaq6",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1795021260000,
+      "data": "2026-11-18",
+      "turno": "tarde",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": "",
+      "tags": [],
+      "note": "",
+      "img": null,
+      "pausa": {
+        "min": 300,
+        "nota": ""
+      }
+    },
+    {
+      "id": "mwmrqzygrgxr",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1795042800000,
+      "data": "2026-11-18",
+      "turno": "noite",
+      "result": "L",
+      "champ": "Sivir",
+      "dpm": "",
+      "tags": [],
+      "note": "internet caiu",
+      "img": null
+    },
+    {
+      "id": "mwmuswngx66p",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1795042860000,
+      "data": "2026-11-18",
+      "turno": "noite",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": "",
+      "tags": [],
       "note": "",
       "img": null
     }

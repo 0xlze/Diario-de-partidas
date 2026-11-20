@@ -1,5 +1,5 @@
 {
-  "atualizado": 1795053209050,
+  "atualizado": 1795204571055,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -2355,6 +2355,19 @@
       "tags": [
         "MVP"
       ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwpeg7m6oo82",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1795172400000,
+      "data": "2026-11-20",
+      "turno": "manhã",
+      "result": "W",
+      "champ": "Sivir",
+      "dpm": "",
+      "tags": [],
       "note": "",
       "img": null
     }

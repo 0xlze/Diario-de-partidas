@@ -1,5 +1,5 @@
 {
-  "atualizado": 1795224429341,
+  "atualizado": 1795224441208,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -2450,6 +2450,19 @@
       "tags": [
         "ACE"
       ],
+      "note": "",
+      "img": null
+    },
+    {
+      "id": "mwpqa3ivaj1u",
+      "weekId": "mwe6jj5nve11",
+      "ts": 1795215660000,
+      "data": "2026-11-20",
+      "turno": "noite",
+      "result": "L",
+      "champ": "Sivr",
+      "dpm": 33,
+      "tags": [],
       "note": "",
       "img": null
     }

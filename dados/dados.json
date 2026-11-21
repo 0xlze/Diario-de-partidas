@@ -1,5 +1,5 @@
 {
-  "atualizado": 1795230757858,
+  "atualizado": 1795230785482,
   "repo": {
     "owner": "0xlze",
     "repo": "Diario-de-partidas",
@@ -2482,8 +2482,8 @@
     {
       "id": "mwpu1egaoofh",
       "weekId": "mwe6jj5nve11",
-      "ts": 1795302000000,
-      "data": "2026-11-21",
+      "ts": 1795215780000,
+      "data": "2026-11-20",
       "turno": "noite",
       "result": "L",
       "champ": "Sett",
